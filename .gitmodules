@@ -1,3 +1,6 @@
 [submodule "learnGitBranching"]
 	path = learnGitBranching
 	url = git@github.com:pcottle/learnGitBranching.git
+[submodule "learnHTML"]
+	path = learnHTML
+	url = git@github.com:Asabeneh/30-Days-Of-HTML.git
